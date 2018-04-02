@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class moveDino : MonoBehaviour {
 
-    public float speed = 2.82f;
+    public float speed = 11.0f;
 	    //public Vector2 vecSpeed = new Vector2(-3,0);
 	public float jumpSpeed = 8f;
 
